@@ -1,1 +1,5 @@
-# Prodigy_Ds_03
+# Prodigy_Ds_03:
+
+To build a decision tree classifier means to create a model that can predict whether a customer will purchase a product or service using their demographic (such as age, gender, income) and behavioral (such as past purchasing behavior, interactions with the company) data. 
+
+One way to do this is by using a dataset like the Bank Marketing dataset from the UCI Machine Learning Repository, which contains information about customers' attributes and whether they subscribed to a term deposit. By analyzing this data and creating a decision tree classifier, it helps businesses understand patterns in customer behavior and make predictions about future purchasing decisions.In the case of the Bank Marketing dataset, the decision tree classifier can learn rules such as "If customer's age is over 50 and they have more than two contacts during the campaign, then they are likely to subscribe to a term deposit." By following these learned rules, businesses can target their marketing strategies more effectively and increase the likelihood of successful customer interactions.
